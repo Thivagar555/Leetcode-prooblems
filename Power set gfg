@@ -1,0 +1,28 @@
+import java.util.*;
+
+class Solution {
+    public List<String> AllPossibleStrings(String s) {
+        List<String> result = new ArrayList<>();
+        generate(s, 0, new StringBuilder(), result );
+        Collections.sort(result);
+        return result;
+    }
+
+    private void generate(String s, int index, StringBuilder current, List<String> result) {
+       if(index == s.length())
+       {
+           if(current.length()>0)
+           {
+               result.add(current.toString());
+               
+           }
+           return; 
+       }
+       
+       current.append(s.charAt(index));
+       generate(s, index+1, current, result);
+       current.deleteCharAt(current.length()-1);//backtracking
+       //Exclude the character
+       generate(s, index+1, current, result);
+    }
+}
