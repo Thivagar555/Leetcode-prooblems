@@ -1,3 +1,6 @@
+
+//this question give only 10% marks out of 100
+
 public class Main {
     static int MatchPattern(String str) {
         int count = 0;
