@@ -1,0 +1,86 @@
+class SharedBuffer {
+    private int data;
+    private boolean isProduced = false;
+
+    // Producer method
+    public synchronized void produce(int value) throws InterruptedException {
+        // If data already produced, wait
+        while (isProduced) {
+            wait();
+        }
+
+        data = value;
+        System.out.println("Produced: " + data);
+        isProduced = true;
+
+        // Notify consumer that data is available
+        notify();
+    }
+
+    // Consumer method
+    public synchronized int consume() throws InterruptedException {
+        // If no data, wait
+        while (!isProduced) {
+            wait();
+        }
+
+        System.out.println("Consumed: " + data);
+        isProduced = false;
+
+        // Notify producer that buffer is empty
+        notify();
+        return data;
+    }
+}
+
+class Producer implements Runnable {
+    private SharedBuffer buffer;
+
+    Producer(SharedBuffer buffer) {
+        this.buffer = buffer;
+    }
+
+    @Override
+    public void run() {
+        try {
+            for (int i = 1; i <= 5; i++) {
+                buffer.produce(i);
+                Thread.sleep(500); // simulate work
+            }
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+class Consumer implements Runnable {
+    private SharedBuffer buffer;
+
+    Consumer(SharedBuffer buffer) {
+        this.buffer = buffer;
+    }
+
+    @Override
+    public void run() {
+        try {
+            for (int i = 1; i <= 5; i++) {
+                buffer.consume();
+                Thread.sleep(800); // simulate work
+            }
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+    }
+}
+
+public class ProducerConsumerDemo {
+    public static void main(String[] args) {
+        SharedBuffer buffer = new SharedBuffer();
+
+        Thread producer = new Thread(new Producer(buffer));
+        Thread consumer = new Thread(new Consumer(buffer));
+
+        producer.start();
+        consumer.start();
+    }
+}
