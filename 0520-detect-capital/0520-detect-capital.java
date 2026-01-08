@@ -1,18 +1,26 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
         
-        // boolean flag = false;
-        int count = 0;
-        for(int i=0; i<word.length(); i++)
-        {
-            if( Character.isUpperCase(word.charAt(i)))
-            {
-                count ++;
+        int n = word.length();
+        if (n <= 1) return true;
+
+        int upperCount = 0;
+        for (int i = 0; i < n; i++) {
+            if (word.charAt(i) <= 'Z') {
+                upperCount++;
             }
         }
-        if(count == word.length() || count==1 && Character.isUpperCase(word.charAt(0)) || count==0 )
-        return true;
+
+        // Case 1: All capitals (USA)
+        if (upperCount == n) return true;
+        
+        // Case 2: All lowercase (leetcode)
+        if (upperCount == 0) return true;
+        
+        // Case 3: Only the first letter is capital (Google)
+        if (upperCount == 1 && word.charAt(0) <= 'Z') return true;
+
         return false;
-    
+
     }
 }
