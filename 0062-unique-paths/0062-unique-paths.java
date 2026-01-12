@@ -19,10 +19,11 @@ class Solution {
         {
             for(int j=1; j<n; j++)
             {
+                // Robot can come from TOP or LEFT
                 dp[i][j]= dp[i-1][j]+dp[i][j-1];
             }
         }
-
+        //last box stores the answer 
         return dp[m-1][n-1];
     }
 }
