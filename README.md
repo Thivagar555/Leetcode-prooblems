@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
