@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
