@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
