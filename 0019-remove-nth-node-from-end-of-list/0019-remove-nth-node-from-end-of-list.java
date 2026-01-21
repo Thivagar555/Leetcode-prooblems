@@ -17,12 +17,13 @@ class Solution {
 
         ListNode fast = dummy.next;
         ListNode slow = dummy;
-
+        
+// Move fast pointer n+1 steps ahead
         for(int i=1; i<=n ; i++)
         {
             fast = fast.next;
         }
-
+ // Move both pointers until fast reaches end
         while(fast!=null)
         {
             fast = fast.next;
