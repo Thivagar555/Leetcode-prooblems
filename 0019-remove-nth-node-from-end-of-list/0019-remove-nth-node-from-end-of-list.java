@@ -10,14 +10,14 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-
+// two pointers / fast & slow technique
         ListNode dummy = new ListNode(0);
 
         dummy.next = head;
 
         ListNode fast = dummy.next;
         ListNode slow = dummy;
-        
+
 // Move fast pointer n+1 steps ahead
         for(int i=1; i<=n ; i++)
         {
