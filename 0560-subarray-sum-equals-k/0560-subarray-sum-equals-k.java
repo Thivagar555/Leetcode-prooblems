@@ -6,25 +6,27 @@ class Solution {
 //         At every index, I want to know
 // how many earlier points make the remaining sum equal to k
         Map<Integer, Integer> map = new HashMap<>();
-
+       // Base case: prefix sum = 0 occurs once
         map.put(0,1);
-
         int count = 0;
-        int prefixSum = 0;
+        int sum =0;
 
-        for(int i=0; i<nums.length; i++)
+        for(int i : nums)
         {
-            prefixSum += nums[i];
+            //prefix sum
+            sum += i;
 
-            if(map.containsKey(prefixSum - k))
+            //sum-k == 0 then the subbarray is found or
+            //follows the heart logic written in down;
+            if(map.containsKey(sum-k))
             {
-                count += map.get(prefixSum - k);
+                count += map.get(sum-k);
             }
-
-            map.put(prefixSum, map.getOrDefault(prefixSum, 0)+1);
+            
+        //recording each sum and its occurance until i prefixsum
+            map.put(sum, map.getOrDefault(sum, 0)+1);
         }
         return count;
-
     }
 }
 //prefixSum[i] - prefixSum[j] = k --heart logic of this problem
