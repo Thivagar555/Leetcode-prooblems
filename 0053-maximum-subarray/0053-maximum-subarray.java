@@ -13,15 +13,16 @@ class Solution {
 // currentSum → best sum ending at current index
 
 // maxSum → best sum seen so far
-        int result = nums[0];
-         int current = nums[0];
+        int currentSum =nums[0], maxSum = nums[0];
+
         for(int i =1; i<nums.length; i++)
         {
-            current = Math.max(current + nums[i] , nums[i]);
+            currentSum = Math.max(currentSum+nums[i], nums[i]);
 
-            result = Math.max(current, result);
+            maxSum = Math.max(currentSum, maxSum);
+
         }
-        return result;
+        return  maxSum;
     }
 }
 // If your running sum becomes negative, it will only reduce future sums.
