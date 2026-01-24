@@ -1,6 +1,6 @@
 class Solution {
     public int numOfSubarrays(int[] arr, int k, int threshold) {
-        
+        //sliding window with fixed size
         int left =0;
         int count = 0;
         double sum = 0;
