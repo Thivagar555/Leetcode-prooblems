@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0643-maximum-average-subarray-i) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
+| [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -104,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0584-find-customer-referee) |
 | [1068-product-sales-analysis-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
