@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 ## Linked List
 |  |
