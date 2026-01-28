@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 ## Sorting
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
