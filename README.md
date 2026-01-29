@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 ## Sorting
@@ -121,4 +122,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
