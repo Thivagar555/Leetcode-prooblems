@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0643-maximum-average-subarray-i) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
