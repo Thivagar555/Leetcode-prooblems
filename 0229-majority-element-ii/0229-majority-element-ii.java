@@ -1,5 +1,9 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
+        //boyer moore voting algorithm but with two
+        // candidate and two count 
+        //because it is possible to have atmost two candidates
+        //more than n/3 counts
        int count1=0, count2 = 0;
 
        int candidate1 = 0, candidate2= 0;
