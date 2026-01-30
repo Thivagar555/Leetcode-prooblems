@@ -17,3 +17,4 @@ class Solution {
         return candidate;
     }
 }
+// If an element appears more than n/2 times, it can’t be completely canceled by other elements. 
