@@ -39,11 +39,11 @@ class Solution {
                 //and add the current node childs in queue
                 if(current.left!=null)
                 {
-                    queue.add(current.left);
+                    queue.offer(current.left);
                 }
                 if(current.right != null)
                 {
-                    queue.add(current.right);
+                    queue.offer(current.right);
                 }
             }
             result.add(list);
