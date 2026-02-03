@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0520-detect-capital) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0072-edit-distance) |
@@ -165,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0102-binary-tree-level-order-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
