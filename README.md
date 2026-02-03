@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
 ## Array
 |  |
@@ -181,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
