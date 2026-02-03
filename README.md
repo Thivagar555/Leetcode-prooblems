@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0072-edit-distance) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0062-unique-paths) |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
