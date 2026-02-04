@@ -20,5 +20,6 @@ class Solution {
         }
     }
     return true;
+    //this handles [1,1,1] duplicates where drops = 0;
     }
 }
