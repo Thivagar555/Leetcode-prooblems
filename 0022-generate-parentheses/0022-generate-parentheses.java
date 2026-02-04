@@ -22,9 +22,26 @@ class Solution {
         }
         
         // Try to add ')' if it won't break validity
+        // give IMPORTANT HERE 
         if(close < open)
         {
             backtrack(result, current + ")", open, close+1, n);
         }
     }
 }
+// this is how it forms in order of backtracking
+// [
+//  "((()))", backtrack to - "(()"
+// open=2 close=1
+// "(()("
+// open=3 close=1
+// "(()()"
+// open=3 close=2
+// "(()())"
+// open=3 close=3
+
+//  "(()())", Backtrack to "(()" then try add close 
+//  "(())()",
+//  "()(())",
+//  "()()()"
+// ]
