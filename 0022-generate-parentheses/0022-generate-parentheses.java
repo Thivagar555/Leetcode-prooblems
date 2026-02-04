@@ -21,7 +21,7 @@ class Solution {
             backtrack(result, current + "(", open+1, close, n);
         }
         
-        // Try to add ')' if we still can
+        // Try to add ')' if it won't break validity
         if(close < open)
         {
             backtrack(result, current + ")", open, close+1, n);
