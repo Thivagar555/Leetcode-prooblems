@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2540-minimum-common-value](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/2540-minimum-common-value) |
 | [3637-trionic-array-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/3637-trionic-array-i) |
 ## Hash Table
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 <!---LeetCode Topics End-->
