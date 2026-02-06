@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3637-trionic-array-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0189-rotate-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0023-merge-k-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
