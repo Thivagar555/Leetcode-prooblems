@@ -1,7 +1,7 @@
 class Solution {
     public int subarrayLCM(int[] nums, int k) {
        int count = 0;
-       //basic 0(n*m) approach 
+       //basic 0(n^2) approach 
        //from each i we are iterating to find the lcm equals to k and if it get larger than k we pruned the looop 
        for(int i = 0; i< nums.length; i++)
        {
