@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0206-reverse-linked-list) |
 ## Database
 |  |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0206-reverse-linked-list) |
 ## String Matching
