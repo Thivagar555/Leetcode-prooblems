@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0056-merge-intervals) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
