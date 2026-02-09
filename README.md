@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0844-backspace-string-compare) |
