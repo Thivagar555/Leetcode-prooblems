@@ -7,7 +7,9 @@ class Solution {
         // if all the 1....n present then the answer must be n+1;
 
         //ignore negatives and zeros
-
+        
+        //if  nums[i] > 0 then swap it their orginal place nums[nums[i] - 1] 
+        //finally iterate it  and find which element is not in its place
         int n = nums.length;
 
         for(int i = 0; i<n; i++)
