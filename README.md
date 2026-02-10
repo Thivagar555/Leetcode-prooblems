@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0056-merge-intervals) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0229-majority-element-ii) |
