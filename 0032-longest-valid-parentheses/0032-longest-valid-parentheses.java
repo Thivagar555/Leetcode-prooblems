@@ -11,25 +11,25 @@ class Solution {
 
 
         stack.push(-1);
-
+        int n = s.length();
         int maxLen = 0;
-
-        for(int i = 0; i<s.length(); i++)
+        for(int i=0; i<n; i++)
         {
             if(s.charAt(i) == '(')
             {
                 stack.push(i);
             }
-            else 
+            else
             {
                 stack.pop();
+
                 if(stack.isEmpty())
                 {
                     stack.push(i);
                 }
                 else
                 {
-                    int len = i-stack.peek();
+                    int len = i -stack.peek();
                     maxLen = Math.max(maxLen, len);
                 }
             }
