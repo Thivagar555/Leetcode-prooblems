@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0645-set-mismatch) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/1248-count-number-of-nice-subarrays) |
 | [2540-minimum-common-value](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0229-majority-element-ii) |
+| [0645-set-mismatch](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 ## Monotonic Stack
 |  |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
