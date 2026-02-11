@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0056-merge-intervals) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0062-unique-paths) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0042-trapping-rain-water) |
 | [0853-car-fleet](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
@@ -135,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Thivagar555/Leetcode-prooblems/tree/master/0392-is-subsequence) |
